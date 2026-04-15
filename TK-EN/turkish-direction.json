@@ -1,0 +1,67 @@
+{
+  "name": "Turkish — Direction Suffixes (-e / -a)",
+  "from": "Turkish",
+  "to": "English",
+  "cards": [
+    { "front": "eve", "back": "to (the) home" },
+    { "front": "okula", "back": "to (the) school" },
+    { "front": "işe", "back": "to work" },
+    { "front": "markete", "back": "to the supermarket" },
+    { "front": "hastaneye", "back": "to the hospital" },
+    { "front": "bankaya", "back": "to the bank" },
+    { "front": "parka", "back": "to the park" },
+    { "front": "restorana", "back": "to the restaurant" },
+    { "front": "kafeteryaya", "back": "to the cafeteria" },
+    { "front": "sinemaya", "back": "to the cinema" },
+    { "front": "müzeye", "back": "to the museum" },
+    { "front": "camiye", "back": "to the mosque" },
+    { "front": "kiliseye", "back": "to the church" },
+    { "front": "havalimanına", "back": "to the airport" },
+    { "front": "istasyona", "back": "to the station" },
+    { "front": "otobüs durağına", "back": "to the bus stop" },
+    { "front": "şehre", "back": "to the city" },
+    { "front": "köye", "back": "to the village" },
+    { "front": "denize", "back": "to the sea" },
+    { "front": "dağa", "back": "to the mountain" },
+
+    { "front": "eve gidiyorum", "back": "I am going home" },
+    { "front": "okula gidiyorum", "back": "I am going to school" },
+    { "front": "işe gidiyorum", "back": "I am going to work" },
+    { "front": "markete gidiyorum", "back": "I am going to the supermarket" },
+    { "front": "hastaneye gidiyorum", "back": "I am going to the hospital" },
+
+    { "front": "eve geliyorum", "back": "I am coming home" },
+    { "front": "okula geliyorum", "back": "I am coming to school" },
+    { "front": "işe geliyorum", "back": "I am coming to work" },
+    { "front": "restorana geliyorum", "back": "I am coming to the restaurant" },
+    { "front": "sinemaya geliyorum", "back": "I am coming to the cinema" },
+
+    { "front": "nereye gidiyorsun?", "back": "where are you going?" },
+    { "front": "nereye gidiyorsunuz?", "back": "where are you (plural) going?" },
+    { "front": "nereye gidiyor?", "back": "where is he / she going?" },
+    { "front": "nereye gidiyoruz?", "back": "where are we going?" },
+
+    { "front": "okula gidiyorsun", "back": "you are going to school" },
+    { "front": "işe gidiyor", "back": "he / she is going to work" },
+    { "front": "markete gidiyoruz", "back": "we are going to the supermarket" },
+    { "front": "sinemaya gidiyorsunuz", "back": "you (plural) are going to the cinema" },
+    { "front": "parka gidiyorlar", "back": "they are going to the park" },
+
+    { "front": "eve gittim", "back": "I went home" },
+    { "front": "okula gittim", "back": "I went to school" },
+    { "front": "işe gittim", "back": "I went to work" },
+    { "front": "hastaneye gittim", "back": "I went to the hospital" },
+    { "front": "markete gittim", "back": "I went to the supermarket" },
+
+    { "front": "okula gittin", "back": "you went to school" },
+    { "front": "işe gitti", "back": "he / she went to work" },
+    { "front": "parka gittik", "back": "we went to the park" },
+    { "front": "sinemaya gittiniz", "back": "you (plural) went to the cinema" },
+    { "front": "restorana gittiler", "back": "they went to the restaurant" },
+
+    { "front": "nereye gittin?", "back": "where did you go?" },
+    { "front": "nereye gitti?", "back": "where did he / she go?" },
+    { "front": "nereye gittiniz?", "back": "where did you (plural) go?" },
+    { "front": "nereye gittiler?", "back": "where did they go?" }
+  ]
+}

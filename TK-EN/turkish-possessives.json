@@ -1,0 +1,76 @@
+{
+  "name": "Turkish — Possessive Suffixes (İyelik Ekleri)",
+  "from": "Turkish",
+  "to": "English",
+  "cards": [
+    { "front": "evim", "back": "my house" },
+    { "front": "evin", "back": "your house" },
+    { "front": "evi", "back": "his / her / its house" },
+    { "front": "evimiz", "back": "our house" },
+    { "front": "eviniz", "back": "your (plural) house" },
+    { "front": "evleri", "back": "their house" },
+
+    { "front": "arabam", "back": "my car" },
+    { "front": "araban", "back": "your car" },
+    { "front": "arabası", "back": "his / her / its car" },
+    { "front": "arabamız", "back": "our car" },
+    { "front": "arabanız", "back": "your (plural) car" },
+    { "front": "arabaları", "back": "their car" },
+
+    { "front": "kitabım", "back": "my book" },
+    { "front": "kitabın", "back": "your book" },
+    { "front": "kitabı", "back": "his / her / its book" },
+    { "front": "kitabımız", "back": "our book" },
+    { "front": "kitabınız", "back": "your (plural) book" },
+    { "front": "kitapları", "back": "their book" },
+
+    { "front": "annem", "back": "my mother" },
+    { "front": "annen", "back": "your mother" },
+    { "front": "annesi", "back": "his / her mother" },
+    { "front": "annemiz", "back": "our mother" },
+    { "front": "anneniz", "back": "your (plural) mother" },
+    { "front": "anneleri", "back": "their mother" },
+
+    { "front": "babam", "back": "my father" },
+    { "front": "baban", "back": "your father" },
+    { "front": "babası", "back": "his / her father" },
+    { "front": "babamız", "back": "our father" },
+    { "front": "babanız", "back": "your (plural) father" },
+    { "front": "babaları", "back": "their father" },
+
+    { "front": "adım", "back": "my name" },
+    { "front": "adın", "back": "your name" },
+    { "front": "adı", "back": "his / her / its name" },
+    { "front": "adımız", "back": "our name" },
+    { "front": "adınız", "back": "your (plural) name" },
+    { "front": "adları", "back": "their name" },
+
+    { "front": "param", "back": "my money" },
+    { "front": "paran", "back": "your money" },
+    { "front": "parası", "back": "his / her money" },
+    { "front": "paramız", "back": "our money" },
+    { "front": "paranız", "back": "your (plural) money" },
+    { "front": "paraları", "back": "their money" },
+
+    { "front": "işim", "back": "my job / my work" },
+    { "front": "işin", "back": "your job / your work" },
+    { "front": "işi", "back": "his / her job / work" },
+    { "front": "işimiz", "back": "our job / our work" },
+    { "front": "işiniz", "back": "your (plural) job / work" },
+    { "front": "işleri", "back": "their job / work" },
+
+    { "front": "arkadaşım", "back": "my friend" },
+    { "front": "arkadaşın", "back": "your friend" },
+    { "front": "arkadaşı", "back": "his / her friend" },
+    { "front": "arkadaşımız", "back": "our friend" },
+    { "front": "arkadaşınız", "back": "your (plural) friend" },
+    { "front": "arkadaşları", "back": "their friend" },
+
+    { "front": "ülkem", "back": "my country" },
+    { "front": "ülken", "back": "your country" },
+    { "front": "ülkesi", "back": "his / her / its country" },
+    { "front": "ülkemiz", "back": "our country" },
+    { "front": "ülkeniz", "back": "your (plural) country" },
+    { "front": "ülkeleri", "back": "their country" }
+  ]
+}
